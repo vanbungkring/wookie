@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'yeahicon';
+  src: url('../font/yeahicon.eot?61188796');
+  src: url('../font/yeahicon.eot?61188796#iefix') format('embedded-opentype'),
+       url('../font/yeahicon.woff?61188796') format('woff'),
+       url('../font/yeahicon.ttf?61188796') format('truetype'),
+       url('../font/yeahicon.svg?61188796#yeahicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'yeahicon';
+    src: url('../font/yeahicon.svg?61188796#yeahicon') format('svg');
+  }
+}
+*/
+ 
+ [class^="yt-icon-"]:before, [class*=" yt-icon-"]:before {
+  font-family: "yeahicon";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  /*width: 1em;*/
+  /*margin-right: .2em;*/
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+     
+  /* fix buttons height, for twitter bootstrap */
+  
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  /*margin-left: .2em;*/
+ 
+  /* you can be more comfortable with increased icons size */
+ 
+  vertical-align: middle;
+  line-height: 1;
+  height: 16px;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.yt-icon-search:before { content: '\e809'; } /* '' */
+.yt-icon-ok-circled2:before { content: '\e800'; } /* '' */
+.yt-icon-ok:before { content: '\e822'; } /* '' */
+.yt-icon-cancel:before { content: '\e81e'; } /* '' */
+.yt-icon-plus:before { content: '\e820'; } /* '' */
+.yt-icon-minus:before { content: '\e821'; } /* '' */
+.yt-icon-info-circled:before { content: '\e81f'; } /* '' */
+.yt-icon-eye:before { content: '\e802'; } /* '' */
+.yt-icon-bookmark:before { content: '\e803'; } /* '' */
+.yt-icon-flag:before { content: '\e80a'; } /* '' */
+.yt-icon-download-cloud:before { content: '\e810'; } /* '' */
+.yt-icon-upload-cloud:before { content: '\e80f'; } /* '' */
+.yt-icon-reply:before { content: '\e80d'; } /* '' */
+.yt-icon-forward:before { content: '\e80c'; } /* '' */
+.yt-icon-pencil:before { content: '\e824'; } /* '' */
+.yt-icon-edit:before { content: '\e811'; } /* '' */
+.yt-icon-print:before { content: '\e812'; } /* '' */
+.yt-icon-chat:before { content: '\e808'; } /* '' */
+.yt-icon-trash:before { content: '\e813'; } /* '' */
+.yt-icon-doc:before { content: '\e814'; } /* '' */
+.yt-icon-docs:before { content: '\e815'; } /* '' */
+.yt-icon-doc-text:before { content: '\e801'; } /* '' */
+.yt-icon-menu:before { content: '\e81d'; } /* '' */
+.yt-icon-cog:before { content: '\e81c'; } /* '' */
+.yt-icon-basket:before { content: '\e81b'; } /* '' */
+.yt-icon-th-list:before { content: '\e80e'; } /* '' */
+.yt-icon-block:before { content: '\e825'; } /* '' */
+.yt-icon-resize-full-alt:before { content: '\e818'; } /* '' */
+.yt-icon-resize-small:before { content: '\e819'; } /* '' */
+.yt-icon-move:before { content: '\e81a'; } /* '' */
+.yt-icon-down-dir:before { content: '\e827'; } /* '' */
+.yt-icon-up-dir:before { content: '\e826'; } /* '' */
+.yt-icon-left-dir:before { content: '\e828'; } /* '' */
+.yt-icon-right-dir:before { content: '\e829'; } /* '' */
+.yt-icon-down-big:before { content: '\e807'; } /* '' */
+.yt-icon-left-big:before { content: '\e806'; } /* '' */
+.yt-icon-right-big:before { content: '\e805'; } /* '' */
+.yt-icon-up-big:before { content: '\e804'; } /* '' */
+.yt-icon-ccw:before { content: '\e816'; } /* '' */
+.yt-icon-arrows-cw:before { content: '\e80b'; } /* '' */
+.yt-icon-exchange:before { content: '\e82c'; } /* '' */
+.yt-icon-off:before { content: '\e817'; } /* '' */
+.yt-icon-hdd:before { content: '\e823'; } /* '' */
+.yt-icon-smile:before { content: '\e82e'; } /* '' */
+.yt-icon-frown:before { content: '\e82f'; } /* '' */
+.yt-icon-meh:before { content: '\e830'; } /* '' */
+.yt-icon-facebook:before { content: '\e832'; } /* '' */
+.yt-icon-twitter:before { content: '\e831'; } /* '' */
+.yt-icon-back-in-time:before { content: '\e82a'; } /* '' */
+.yt-icon-floppy:before { content: '\e82b'; } /* '' */
+.yt-icon-login:before { content: '\e82d'; } /* '' */
+
+.yt-icon-logo:before {
+  content: "\e60d";
+}

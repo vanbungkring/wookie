@@ -1,0 +1,121 @@
+=== Sparkle ===
+Author: Yeahthemes
+Author URL: http://yeahthemes.com
+Description: An Outstanding Magazine theme
+License: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+=== Support ===
+Please post your questions in our Support Forum - http://yeahthemes.com/
+
+=== Update Guide ===
+
+Recommendation: Backup old version of theme and Theme options data before updating.
+
+* After updated:
+  - Clear your cache from Cache plugins, also to CDN cache and browser cache to take an effect.
+  - Re-save theme options to overwrite dynamic css.
+
+=== Changelog ===
+
+= v1.0.3 - June 10 2014
+************************************
+
+* Fixed: 
+  - Minor bugs
+  - Responsiveness on iPad
+  - Touchless on iOS
+  - Pagination issue for Home page when we use Custom Posts query and set the page as Front page.  
+
+* Improved:
+  - Performance
+  - Ajax Response time
+
+* Added:
+  - Ability to split excerpt automatically
+  - Usual loading method for News megamenu
+
+* Updated:
+  - Localized strings
+  - Language
+  - Documentation
+  
+* Files changed:
+  - framework/admin/includes/yt-function-options.php
+  - framework/yt-admin-hooks.php
+  - framework/yt-admin-init.php
+  - framework/widgets/widget-mailchimp.php
+  - includes/theme-interface.php
+  - includes/theme-functions.php
+  - includes/theme-hooks.php
+  - includes/theme-scripts.php
+  - includes/theme-config.php
+  - includes/theme-options.php
+  - includes/theme-general-functions.php
+  - includes/widgets/widget-ajax-posts-by-category.php
+  - content.php
+  - js/yt-custom
+  - style.css
+  - languages
+
+= v1.0.2 - June 4 2014
+************************************
+
+* Fixed: 
+  - Scroll fix menu
+  - Minor bugs
+
+* Improved:
+  - Performance
+  
+* Files changed:
+  - framework/admin/includes/yt-options-settings.api.php
+  - includes/theme-interface.php
+  - js/yt-custom
+  - style.css
+
+* Updated:
+  - documentation
+
+= v1.0.1 - June 1 2014
+************************************
+
+* Fixed: 
+  - Responsive issue with Boxed-layout & Large display
+  - Countdown issue
+  - Minor bugs
+
+* Improved:
+  - Loading speed 
+  - Woocommerce style 
+
+* Added:
+  - Support for WP-Review
+  - Support touch for main menu on Android
+  - Author meta info in Author page and Single post
+  - Increase level of sub-menu for Main navigation
+
+* Updated:
+  - Shortcode generator v1.0.2 
+
+* Files changed:
+  - framework/admin/includes/yt-functions-field-types.php
+  - framework/admin/includes/yt-functions.php
+  - includes/theme-config.php
+  - includes/theme-styling.php
+  - includes/theme-interface.php
+  - includes/theme-options.php
+  - includes/theme-general-functions.php
+  - includes/theme-functions.php
+  - includes/theme-hooks.php
+  - css/woocommerce
+  - css/woocommerce-smallscreen
+  - js/yt.custom
+  - style.css
+  - 404
+  - documentation
+
+= v1.0
+************************************
+* First release!
+

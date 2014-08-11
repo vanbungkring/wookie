@@ -1,0 +1,4090 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sparkle\n"
+"POT-Creation-Date: 2014-06-09 01:36+0700\n"
+"PO-Revision-Date: 2014-06-09 01:36+0700\n"
+"Last-Translator: Manh Ding <manh.dinh@me.com>\n"
+"Language-Team: Yeahthemes <yeahthemes@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:32
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:49
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../comments.php:29
+msgctxt "%1$s Comments"
+msgid "One comment"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Leave a reply &rarr;"
+msgstr ""
+
+#: ../comments.php:40 ../comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:41 ../comments.php:61
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:42 ../comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-forum.php:20 ../content-page.php:22 ../content-single.php:123
+#: ../content.php:67 ../content.php:126 ../content.php:183 ../content.php:240
+#: ../content.php:285 ../content.php:343 ../content.php:401 ../image.php:60
+msgid "Pages:"
+msgstr ""
+
+#: ../content-forum.php:27 ../content-page.php:29 ../content.php:77
+#: ../content.php:136 ../content.php:193 ../content.php:250 ../content.php:295
+#: ../content.php:353 ../content.php:411 ../image.php:80
+msgid "—Edit"
+msgstr ""
+
+#: ../content-single.php:145
+#, php-format
+msgid "<strong class=\"tag-heading\">%1$s Tagges:</strong> %2$s"
+msgstr ""
+
+#: ../content.php:23 ../includes/theme-config.php:334
+msgid "Read More..."
+msgstr ""
+
+#: ../content.php:64 ../content.php:123 ../content.php:180 ../content.php:237
+#: ../content.php:282 ../content.php:340 ../content.php:398
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../dwqa-templates/content-start-wrapper.php:9
+msgid "Question & Answer"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:24
+#: ../framework/admin/includes/yt-functions-options.php:22
+#: ../includes/theme-config.php:629 ../includes/theme-options.php:29
+#: ../includes/theme-options.php:458 ../includes/theme-woocommerce.php:26
+#: ../includes/theme-wpml.php:31
+msgid "Show"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:25
+#: ../framework/admin/includes/yt-functions-options.php:23
+#: ../includes/theme-config.php:630 ../includes/theme-options.php:30
+#: ../includes/theme-options.php:310 ../includes/theme-options.php:459
+#: ../includes/theme-woocommerce.php:27 ../includes/theme-wpml.php:32
+msgid "Hide"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:28
+#: ../includes/theme-options.php:48 ../includes/theme-shortcodes.php:46
+msgid "False"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:29
+#: ../includes/theme-options.php:47 ../includes/theme-shortcodes.php:45
+msgid "True"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:33
+#: ../framework/admin/includes/yt-functions-field-types.php:454
+#: ../framework/admin/includes/yt-functions-field-types.php:1693
+#: ../includes/theme-config.php:626
+msgid "None"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:64
+#: ../includes/theme-config.php:638
+msgid "Page Settings"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:67
+#: ../includes/theme-config.php:641
+msgid "Sidebar layout"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:68
+#: ../includes/theme-config.php:642
+msgid "Default sidebar will be retrieved from Theme Options"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:86
+#: ../includes/theme-config.php:660
+msgid "Default sidebar"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:95
+#: ../includes/theme-config.php:678
+msgid "Page Title"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:103
+msgid "Page Sub-title"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:104
+msgid "The Sub title that display right below page title."
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:113
+#: ../includes/theme-config.php:686
+msgid "Page Content"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:121
+msgid "Background"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:129
+msgid "Enable/Disable Background"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:133
+msgid "Background image"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:143
+#: ../framework/admin/includes/yt-functions-options.php:979
+#: ../framework/admin/includes/yt-functions-options.php:1071
+msgid "Background options"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:144
+msgid "Default : no-repeat - center top - local - auto"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:165
+#: ../framework/admin/includes/yt-default-metaboxes.php:168
+msgid "Query Posts"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:169
+msgid ""
+"Displaying posts using a custom query, toggle the above field on to apply "
+"the following configs to this page"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:176
+#: ../includes/theme-config.php:728
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:180
+#: ../includes/theme-config.php:786
+msgid "Category"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:181
+#: ../includes/theme-config.php:787
+msgid ""
+"Select a category you wish to display posts from (No category selected, "
+"retrieve all)"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:189
+#: ../includes/theme-config.php:795 ../includes/theme-shortcodes.php:141
+msgid "Order"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:195
+#: ../includes/theme-config.php:801 ../includes/theme-shortcodes.php:138
+#: ../includes/widgets/widget-ajax-posts-by-category.php:417
+#: ../includes/widgets/widget-posts-with-thumnail.php:172
+msgid "Descending"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:196
+#: ../includes/theme-config.php:802 ../includes/theme-shortcodes.php:139
+#: ../includes/widgets/widget-ajax-posts-by-category.php:418
+#: ../includes/widgets/widget-posts-with-thumnail.php:173
+msgid "Ascending"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:200
+#: ../includes/theme-config.php:806 ../includes/theme-shortcodes.php:149
+msgid "Order by"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:206
+#: ../includes/theme-config.php:812 ../includes/theme-shortcodes.php:50
+#: ../includes/widgets/widget-ajax-posts-by-category.php:426
+#: ../includes/widgets/widget-posts-with-thumnail.php:181
+msgid "Date"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:207
+#: ../includes/theme-config.php:813 ../includes/theme-shortcodes.php:51
+#: ../includes/theme-shortcodes.php:79
+#: ../includes/widgets/widget-ajax-posts-by-category.php:427
+#: ../includes/widgets/widget-posts-with-thumnail.php:182
+msgid "Title"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:208
+#: ../includes/theme-config.php:814 ../includes/theme-shortcodes.php:52
+#: ../includes/widgets/widget-ajax-posts-by-category.php:428
+#: ../includes/widgets/widget-posts-with-thumnail.php:183
+msgid "Post slug"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:209
+#: ../includes/theme-config.php:815 ../includes/theme-shortcodes.php:53
+#: ../includes/widgets/widget-ajax-posts-by-category.php:429
+#: ../includes/widgets/widget-posts-with-thumnail.php:184
+msgid "Author"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:210
+#: ../includes/theme-config.php:816 ../includes/theme-shortcodes.php:55
+#: ../includes/widgets/widget-ajax-posts-by-category.php:431
+#: ../includes/widgets/widget-posts-with-thumnail.php:186
+msgid "Last modified date"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:211
+#: ../includes/theme-config.php:817 ../includes/theme-shortcodes.php:54
+#: ../includes/widgets/widget-ajax-posts-by-category.php:430
+#: ../includes/widgets/widget-posts-with-thumnail.php:185
+msgid "Number of comments"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:212
+#: ../includes/theme-config.php:818 ../includes/theme-shortcodes.php:56
+#: ../includes/widgets/widget-ajax-posts-by-category.php:432
+#: ../includes/widgets/widget-posts-with-thumnail.php:187
+msgid "Random order"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:213
+#: ../includes/theme-config.php:819
+msgid "Post Views"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:217
+msgid "Posts per page"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:218
+#, php-format
+msgid "Default: %s"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:227
+#: ../includes/theme-config.php:844
+msgid "Tagged In"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:228
+#: ../includes/theme-config.php:845 ../includes/theme-shortcodes.php:112
+msgid ""
+"Specify tags to retrieve posts from. Hold cmd/ctrl + click to select/"
+"deselect multiple tags"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:235
+#: ../includes/theme-config.php:852 ../includes/theme-shortcodes.php:119
+msgid "Exclude post format"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:236
+#: ../includes/theme-config.php:853 ../includes/theme-shortcodes.php:120
+msgid "Specify post formats you don't want to retrieve."
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:247
+msgid "Sticky posts"
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:253
+msgid "Check to ignore "
+msgstr ""
+
+#: ../framework/admin/includes/yt-default-metaboxes.php:266
+msgid "Yeahthemes Settings Panel"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:376
+#: ../framework/yt-admin-options.php:134
+msgid "Author: "
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:377
+#: ../framework/yt-admin-options.php:135
+msgid "Version: "
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:506
+msgid "&laquo; Back"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:518
+msgid "WordPress &rsaquo; Error"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:579
+msgid "Homepage"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:600
+msgid "Note: This file is not a valid image!"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:601
+msgid "Use this one"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:602
+msgid "View File"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:603
+msgid "Click OK to import options"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:604
+msgid ""
+"Warning: All of your current options will be replaced with the data from "
+"your last backup! Proceed?"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:605
+msgid "Click OK to backup your current saved options."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:606
+#, php-format
+msgid ""
+"Click OK to reset. All settings will be lost and replaced with default "
+"settings! %s Notice: You can use backup function to save theme option data "
+"before reset."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:607
+msgid "Oops! You need to have at least one!"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:608
+msgid "Cannot preview this file"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-admin.php:609
+#: ../framework/admin/includes/yt-functions-field-types.php:726
+#: ../framework/admin/includes/yt-functions-field-types.php:1194
+#: ../framework/widgets/widget-ads-125.php:207
+#: ../framework/widgets/yt-smart-widget.class.php:122
+#: ../includes/widgets/widget-social-media.php:210
+msgid "Delete"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:175
+#: ../framework/admin/includes/yt-functions-field-types.php:1837
+msgid "Add Media"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:175
+#: ../framework/admin/includes/yt-functions-field-types.php:1837
+msgid "Upload"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:176
+#: ../framework/admin/includes/yt-functions-field-types.php:1839
+#: ../framework/classes/class.yeathemes-walkers.php:229
+msgid "Remove"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:309
+msgid "Upload background image"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:327
+msgid "No Repeat"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:328
+msgid "Repeat"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:329
+msgid "Repeat x"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:330
+msgid "Repeat y"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:338
+msgid "Background repeat"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:346
+msgid "Center Top"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:347
+msgid "Center Center"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:348
+msgid "Center Bottom"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:349
+msgid "Left Top"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:350
+msgid "Left Bottom"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:351
+msgid "Right Top"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:352
+msgid "Right Bottom"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:360
+msgid "Background position"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:368
+msgid "Scroll"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:369
+msgid "Fixed"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:370
+msgid "Local"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:378
+msgid "Background attachment"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:386
+msgid "Auto"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:387
+msgid "Cover"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:388
+msgid "Contain"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:396
+msgid "Background size"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:403
+msgid "Background color"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:445
+msgid "Border width"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:455
+msgid "Solid"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:456
+msgid "Dashed"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:457
+msgid "Dotted"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:465
+msgid "Border style"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:469
+msgid "Border color"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:545
+msgid "Pick date"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:704
+#: ../framework/admin/includes/yt-functions-field-types.php:739
+#: ../includes/theme-meta-boxes.php:103 ../includes/theme-meta-boxes.php:107
+msgid "Gallery"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:705
+msgid "Add images to "
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:706
+msgid "Delete all"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:739
+msgid "Add to "
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:740
+#, php-format
+msgid "You are going to delete all image from %s. Process?"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:889
+msgid "Margin top"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:890
+msgid "Margin right"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:891
+msgid "Margin bottom"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:892
+msgid "Margin left"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1057
+msgid "Select One"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1193
+msgid "Collapse/Expand"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1280
+msgid "Add more"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1281
+msgid "Expand/Collapse all"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1380
+msgid "Oops! Taxonomy is not exist"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1589
+msgid "Font family"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1636
+msgid "Font size"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1648
+#: ../framework/admin/includes/yt-functions-field-types.php:1674
+#: ../includes/theme-options.php:961
+msgid "Normal"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1652
+msgid "400 (Regular)"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1655
+#: ../includes/theme-options.php:949
+msgid "700 (Bold)"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1658
+#: ../framework/admin/includes/yt-functions-field-types.php:1677
+#: ../framework/admin/includes/yt-functions-field-types.php:1697
+msgid "Inherit"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1666
+msgid "Font Weight"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1675
+#: ../includes/theme-options.php:962
+msgid "Italic"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1676
+msgid "Oblique"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1685
+#: ../includes/theme-options.php:955
+msgid "Font style"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1694
+msgid "Capitalize"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1695
+msgid "Uppercase"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1696
+msgid "Lowercase"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1705
+msgid "Text transform"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1717
+msgid "Line height"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1733
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1747
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1756
+msgid "Font color"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1765
+#: ../framework/admin/includes/yt-functions-field-types.php:1838
+msgid "Preview"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1767
+msgctxt "Typography preview text"
+msgid "Grumpy wizards make toxic brew for the evil Queen and Jack. 1234567890"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-field-types.php:1891
+msgid "Find Address"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:18
+#: ../includes/theme-options.php:25
+msgid "ON"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:19
+#: ../includes/theme-options.php:26
+msgid "OFF"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:66
+msgid "Elite Builder"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:427
+#: ../framework/admin/includes/yt-metaboxes-example.php:368
+msgid "Boxed-layout margin"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:428
+#: ../framework/admin/includes/yt-metaboxes-example.php:369
+msgid "default : top: 50px, bottom: 70px"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:439
+#: ../framework/admin/includes/yt-metaboxes-example.php:380
+#: ../includes/theme-options.php:1079
+msgid "Body Background options"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:440
+#: ../framework/admin/includes/yt-functions-options.php:980
+#: ../framework/admin/includes/yt-functions-options.php:1072
+#: ../framework/admin/includes/yt-metaboxes-example.php:381
+#: ../includes/theme-options.php:1080 ../includes/theme-options.php:1170
+#: ../includes/theme-options.php:1223 ../includes/theme-options.php:1260
+msgid "default : no-repeat - center top - local - auto"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:497
+#: ../framework/admin/includes/yt-metaboxes-example.php:435
+msgid "Check this if you want to use background pattern"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:514
+msgid "Folding Select"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:515
+msgid "Change the value to show/hide another fields"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:608
+#: ../framework/admin/includes/yt-metaboxes-example.php:479
+msgid "Text input"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:739
+msgid "Subscribe & Connect"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:754
+msgid "API"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:756
+msgid "Configure Subscription API"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:760
+msgid "MailChimp API key"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:761
+msgid ""
+"Get your API at <a href=\"http://admin.mailchimp.com/account/api-key-popup\" "
+"target=\"_blank\">link</a>"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:768
+msgid "Google API key"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:769
+msgid ""
+"Get your API at <a href=\"https://code.google.com/apis/console?hl=en#access"
+"\" target=\"_blank\">link</a>"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:776
+msgid "Twitter API key"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:778
+msgid "Your application's OAuth settings"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:782
+msgid ""
+"<h3>Create your application and copy the Consumer key & Access token at <a "
+"href=\"https://dev.twitter.com/apps/\">Twitter API</a></h3>"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:786
+msgid "Consumer key"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:787
+msgid "Enter your Consumer key from <strong>OAuth settings</strong>."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:793
+msgid "Consumer secret"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:794
+msgid "Enter your Consumer secret from <strong>OAuth settings</strong>."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:800
+msgid "Access token"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:801
+msgid "Enter your Access token from <strong>Your access token</strong>."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:807
+msgid "Access token secret"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:808
+msgid "Enter your Access token secret from <strong>Your access token</strong>."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:819
+msgid "Connect"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:821
+msgid "Add your Social Networks URLs"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:824
+msgid "RSS"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:825
+msgid "Add your RSS url. (default is <a href=\""
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:831
+msgid "Email Adress"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:832
+msgid "Add an Email address.<br>Eg:your.email@domain.com"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:838
+#: ../includes/theme-interface.php:683
+msgid "Facebook"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:839
+msgid "Add your Facebook url.<br>http://www.facebook.com/username"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:845
+#: ../includes/theme-interface.php:684
+msgid "Twitter"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:846
+msgid "Add your Twitter url.<br>https://twitter.com/username"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:852
+msgid "Google Plus"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:853
+msgid "Add your Google Plus url.<br>http://plus.google.com/userID"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:859
+#: ../includes/theme-interface.php:686
+msgid "Youtube"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:860
+msgid "Add your Youtube url.<br>http://www.youtube.com/user/username"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:873
+msgid "Advanced Settings"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:885
+msgid "Icons"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:887
+msgid "Add favicon ,Apple/Windows icons"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:890
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:891
+msgid ""
+"Upload a 32px x 32px .png/.gif/.ico image that will represent your website's "
+"favicon."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:897
+msgid "Upload icons for Apple devices"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:901
+msgid "Fluid App icon 512x512"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:902
+msgid ""
+"This is the icon for Fluid App to create a Real Mac App of your website that "
+"appears in your Dock. "
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:908
+msgid "Apple icon 57x57"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:909
+msgid "This is default icon."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:915
+msgid "Apple icon 72x72"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:916
+msgid "This is icon for iPad."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:922
+msgid "Apple icon 114x114 (Retina)"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:923
+msgid "This is icon for iPhone Retina."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:929
+msgid "Apple icon 144x144 (Retina)"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:930
+msgid "This is icon for iPad Retina."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:936
+msgid "Upload icons for Windows 8 devices (Metro UI)"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:940
+msgid "Metro UI icon"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:941
+msgid "The size of icon should be 512x512 in pixel and png format."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:947
+msgid "Metro UI icon background color"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:960
+msgid "Login Area"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:962
+msgid "Styling your Admin Login area"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:965
+msgid "Admin Login Logo"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:966
+msgid ""
+"Upload a custom logo for admin login page. Dimension: 320px*100px, Retina: "
+"640px*200px"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:972
+#: ../framework/admin/includes/yt-functions-options.php:1063
+msgid "Link Color"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:973
+#: ../framework/admin/includes/yt-functions-options.php:1064
+msgid "This color will be used for links"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1000
+msgid "Maintenance"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1002
+msgid "Take your site offline for the Maintenance"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1005
+msgid "Take the Site Offline"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1006
+msgid ""
+"This will show an offline message. Except for administrators, nobody will be "
+"able to access the site"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1016
+msgid "Offline heading"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1017
+msgid "Heading of Message"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1026
+msgid "Offline Message"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1027
+msgid "Message context"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1036
+msgid "Meta Description"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1037
+msgid "Define a description of your web page that appear on Search engine"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1046
+#: ../includes/theme-options.php:324 ../includes/theme-options.php:819
+#: ../includes/theme-options.php:1254
+msgid "Footer"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1047
+msgid "Footer infomation ( Email, Social networks, ...)"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1056
+msgid "Text Color"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1057
+msgid "This color will be used for Maintenance page text"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1085
+msgid "Countdown"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1094
+msgid "Countdown Launch Date"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1095
+msgid "Select a date from the calendar."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1101
+msgid "Countdown Launch Time"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1102
+msgid "Enter the launch time e.g. 10:30"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1114
+msgid "Miscs"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1116
+msgid "The other settings"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1119
+msgid "Overwrite default media size automatically"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1126
+msgid "Switch this off if you want to resize media manually"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1131
+msgid "Header Code"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1132
+msgid "Your custom tags in header (eg: Custom Meta tags, CSS, etc ...)"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1141
+msgid "Footer Code "
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1142
+msgid "Your custom tags in footer(Analytics, custom script etc ...)"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1158
+#: ../framework/yt-admin-options.php:99
+msgid "Backup & Restore"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1160
+#: ../framework/yt-admin-options.php:101
+msgid "Backup/Transfer your Theme options data"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1166
+#: ../framework/yt-admin-options.php:104
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1167
+#: ../framework/yt-admin-options.php:105
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1174
+#: ../framework/yt-admin-options.php:112
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions-options.php:1177
+#: ../framework/yt-admin-options.php:116
+msgid ""
+"<br>You can tranfer the saved options data between different installs by "
+"copying the text inside the text box. To import data from another install, "
+"replace the data in the text box with the one from another install and click "
+"\"Import Options\""
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions.php:397
+msgid "<span>Embed HTML not available.</span>"
+msgstr ""
+
+#: ../framework/admin/includes/yt-functions.php:674
+msgid "30 Latest Posts"
+msgstr ""
+
+#: ../framework/admin/includes/yt-metaboxes-example.php:573
+msgid "Address"
+msgstr ""
+
+#: ../framework/admin/includes/yt-metaboxes-example.php:575
+#: ../framework/admin/includes/yt-metaboxes-example.php:592
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: ../framework/admin/includes/yt-metaboxes-example.php:579
+msgid "Location"
+msgstr ""
+
+#: ../framework/admin/includes/yt-metaboxes-example.php:590
+msgid "oEmbed(s)"
+msgstr ""
+
+#: ../framework/admin/includes/yt-options-frontend.php:13
+msgid "Options Updated"
+msgstr ""
+
+#: ../framework/admin/includes/yt-options-frontend.php:18
+#: ../framework/admin/includes/yt-options-frontend.php:104
+msgid "Options Reset"
+msgstr ""
+
+#: ../framework/admin/includes/yt-options-frontend.php:23
+msgid "Error!"
+msgstr ""
+
+#: ../framework/admin/includes/yt-options-frontend.php:52
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../framework/admin/includes/yt-options-frontend.php:62
+msgid "Get social with us!"
+msgstr ""
+
+#: ../framework/admin/includes/yt-options-frontend.php:82
+msgid "Expand"
+msgstr ""
+
+#: ../framework/admin/includes/yt-options-frontend.php:86
+#: ../framework/admin/includes/yt-options-frontend.php:108
+msgid "Save All Changes"
+msgstr ""
+
+#: ../framework/admin/includes/yt-options-frontend.php:87
+#: ../framework/admin/includes/yt-options-frontend.php:109
+msgid "Save and Refresh"
+msgstr ""
+
+#: ../framework/admin/includes/yt-options-settings.api.php:1177
+msgid "No backups yet "
+msgstr ""
+
+#: ../framework/admin/includes/yt-options-settings.api.php:1184
+msgid "Last Backup : "
+msgstr ""
+
+#: ../framework/admin/includes/yt-options-settings.api.php:1185
+msgid "Backup Options"
+msgstr ""
+
+#: ../framework/admin/includes/yt-options-settings.api.php:1187
+#: ../framework/admin/includes/yt-options-settings.api.php:1321
+msgid "Restore Options"
+msgstr ""
+
+#: ../framework/admin/includes/yt-options-settings.api.php:1321
+msgid "Import Options"
+msgstr ""
+
+#: ../framework/admin/init.php:134
+msgid "Yeahthemes Theme options"
+msgstr ""
+
+#: ../framework/admin/init.php:148 ../framework/admin/init.php:234
+msgid "Theme Options"
+msgstr ""
+
+#: ../framework/admin/init.php:200
+msgid "( Y )"
+msgstr ""
+
+#: ../framework/admin/init.php:201 ../framework/admin/init.php:251
+msgid "Documentation"
+msgstr ""
+
+#: ../framework/admin/init.php:202 ../framework/admin/init.php:252
+msgid "Support forum"
+msgstr ""
+
+#: ../framework/admin/init.php:306
+msgid "You can configuring options, skins, typography here"
+msgstr ""
+
+#: ../framework/classes/class.yeahthemes.php:443
+#: ../framework/classes/class.yeahthemes.php:461
+msgid "Accent color"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:99
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:103
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:116
+msgid "sub item"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:131
+msgid "Move up"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:144
+msgid "Move down"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:146
+#: ../framework/classes/class.yeathemes-walkers.php:148
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:157
+#: ../includes/theme-meta-boxes.php:182
+msgid "URL"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:164
+msgid "Navigation Label"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:170
+msgid "Title Attribute"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:177
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:182
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:188
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:194
+msgid "Description"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:196
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:204
+msgid "Move"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:205
+msgid "Up one"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:206
+msgid "Down one"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:209
+msgid "To the top"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:216
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../framework/classes/class.yeathemes-walkers.php:230
+msgid "Cancel"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:196
+#: ../includes/theme-config.php:207
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:197
+#: ../includes/theme-config.php:208
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:198
+#: ../includes/theme-config.php:209
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:200
+#: ../includes/theme-config.php:211
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:201
+#: ../includes/theme-config.php:212
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:202
+#: ../includes/theme-config.php:213
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:203
+#: ../includes/theme-config.php:214
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:204
+#: ../includes/theme-config.php:215
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:205
+#: ../includes/theme-config.php:216
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:206
+#: ../includes/theme-config.php:217
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:207
+#: ../includes/theme-config.php:218
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:208
+#: ../includes/theme-config.php:219
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:209
+#: ../includes/theme-config.php:220
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:210
+#: ../includes/theme-config.php:221
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:212
+#: ../framework/extended/class.tgm-plugin-activation.php:1951
+#: ../includes/theme-config.php:222
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:213
+#: ../framework/extended/class.tgm-plugin-activation.php:1638
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:544
+#: ../framework/extended/class.tgm-plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1185
+msgid "Required"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1290
+#: ../framework/extended/class.tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1312
+#: ../framework/extended/class.tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1380
+#: ../includes/theme-meta-boxes.php:203
+msgid "Status"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1934
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:2064
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:2065
+#: ../framework/extended/class.tgm-plugin-activation.php:2074
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:2065
+#: ../framework/extended/class.tgm-plugin-activation.php:2074
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:2071
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/extended/class.tgm-plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/front-end/bootstrap-templates.php:43
+#: ../includes/theme-woocommerce.php:184
+msgid "Name"
+msgstr ""
+
+#: ../framework/front-end/bootstrap-templates.php:45
+#: ../includes/theme-woocommerce.php:186
+msgid "Email"
+msgstr ""
+
+#: ../framework/front-end/bootstrap-templates.php:47
+msgid "Website"
+msgstr ""
+
+#: ../framework/front-end/bootstrap-templates.php:66
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../framework/front-end/bootstrap-templates.php:68
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../framework/front-end/bootstrap-templates.php:69
+msgctxt "noun"
+msgid "Comment <span class=\"required\">*</span>"
+msgstr ""
+
+#: ../framework/front-end/bootstrap-templates.php:70
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../framework/front-end/bootstrap-templates.php:71
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../framework/front-end/bootstrap-templates.php:111
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: ../framework/front-end/bootstrap-templates.php:112
+msgid "Password:"
+msgstr ""
+
+#: ../framework/front-end/bootstrap-templates.php:112
+#: ../framework/widgets/widget-mailchimp.php:186
+msgid "Submit"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-125.php:15
+msgid "A set of 125px (width) advertisements"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-125.php:26
+msgid "(Theme) Ads space 125px"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-125.php:84
+#: ../includes/widgets/widget-social-media.php:87
+msgid "You need a least one block"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-125.php:159
+#: ../framework/widgets/widget-ads-full.php:102
+#: ../includes/widgets/widget-social-media.php:162
+msgid "Advertisements"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-125.php:170
+#: ../framework/widgets/widget-ads-full.php:113
+#: ../framework/widgets/widget-categorys-descendants.php:78
+#: ../framework/widgets/widget-childpages.php:89
+#: ../framework/widgets/widget-facebook-likebox.php:91
+#: ../framework/widgets/widget-flickr.php:84
+#: ../framework/widgets/widget-mailchimp.php:216
+#: ../framework/widgets/widget-smart-tabby-widget.php:46
+#: ../framework/widgets/widget-twitter-profile.php:84
+#: ../framework/widgets/widget-twitter-timelines.php:78
+#: ../framework/widgets/widget-video.php:64
+#: ../includes/widgets/widget-ajax-posts-by-category.php:367
+#: ../includes/widgets/widget-posts-with-thumnail.php:107
+#: ../includes/widgets/widget-social-media.php:173
+msgid "Title:"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-125.php:175
+#: ../framework/widgets/widget-ads-full.php:118
+#: ../includes/widgets/widget-social-media.php:178
+msgid "Show on single article only"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-125.php:178
+#: ../framework/widgets/widget-ads-full.php:121
+#: ../includes/widgets/widget-social-media.php:181
+msgid "if the Ads code is empty, display image"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-125.php:191
+#: ../framework/widgets/widget-ads-full.php:124
+#: ../includes/widgets/widget-social-media.php:194
+msgid "Ads code:"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-125.php:195
+#: ../framework/widgets/widget-ads-full.php:128
+#: ../includes/widgets/widget-social-media.php:198
+msgid "Image:"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-125.php:200
+#: ../framework/widgets/widget-ads-full.php:133
+#: ../includes/widgets/widget-social-media.php:203
+msgid "URL:"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-125.php:204
+#: ../framework/widgets/widget-ads-full.php:137
+#: ../includes/widgets/widget-social-media.php:207
+msgid "Alt text:"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-125.php:212
+#: ../includes/widgets/widget-social-media.php:215
+msgid "More ads"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-full.php:15
+msgid "Full width advertisements"
+msgstr ""
+
+#: ../framework/widgets/widget-ads-full.php:26
+msgid "(Theme) Ads Full"
+msgstr ""
+
+#: ../framework/widgets/widget-categorys-descendants.php:16
+msgid "A list or dropdown of a single category's descendants."
+msgstr ""
+
+#: ../framework/widgets/widget-categorys-descendants.php:27
+msgid "(Theme) Category's descendants"
+msgstr ""
+
+#: ../framework/widgets/widget-categorys-descendants.php:74
+#: ../includes/theme-shortcodes.php:101
+msgid "Categories"
+msgstr ""
+
+#: ../framework/widgets/widget-categorys-descendants.php:83
+msgid "Category to be displayed:"
+msgstr ""
+
+#: ../framework/widgets/widget-categorys-descendants.php:84
+msgid "Select Category"
+msgstr ""
+
+#: ../framework/widgets/widget-categorys-descendants.php:92
+msgid "Show as dropdown"
+msgstr ""
+
+#: ../framework/widgets/widget-categorys-descendants.php:97
+msgid "Show post counts"
+msgstr ""
+
+#: ../framework/widgets/widget-categorys-descendants.php:102
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../framework/widgets/widget-childpages.php:15
+msgid "A widget that displays your child pages photos"
+msgstr ""
+
+#: ../framework/widgets/widget-childpages.php:26
+msgid "(Theme) Child pages"
+msgstr ""
+
+#: ../framework/widgets/widget-childpages.php:92
+msgid ""
+"Leave the Title field blank if you would like to display the parent page "
+"Title instead."
+msgstr ""
+
+#: ../framework/widgets/widget-facebook-likebox.php:16
+msgid "Display your Facebook fan page"
+msgstr ""
+
+#: ../framework/widgets/widget-facebook-likebox.php:27
+msgid "(Theme) Facebook Fan page"
+msgstr ""
+
+#: ../framework/widgets/widget-facebook-likebox.php:69
+msgid "Oops!, You need to input your Facebook page URL"
+msgstr ""
+
+#: ../framework/widgets/widget-facebook-likebox.php:81
+msgid "Find us on Facebook"
+msgstr ""
+
+#: ../framework/widgets/widget-facebook-likebox.php:95
+msgid "Facebook Page Url:"
+msgstr ""
+
+#: ../framework/widgets/widget-facebook-likebox.php:100
+msgid "Show stream"
+msgstr ""
+
+#: ../framework/widgets/widget-facebook-likebox.php:103
+msgid "Height:"
+msgstr ""
+
+#: ../framework/widgets/widget-facebook-likebox.php:106
+msgid "Heght should be 590 if \"Show stream\" option is enabled (default: 290)"
+msgstr ""
+
+#: ../framework/widgets/widget-facebook-likebox.php:109
+msgid "Color:"
+msgstr ""
+
+#: ../framework/widgets/widget-facebook-likebox.php:111
+msgid "light"
+msgstr ""
+
+#: ../framework/widgets/widget-facebook-likebox.php:112
+msgid "dark"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:15
+msgid "Display Flickr photos."
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:26
+msgid "(Theme) Flickr Photos"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:89
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:94
+msgid "Number of Photos:"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:103
+msgid "Type (user or group):"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:105
+msgid "user"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:106
+msgid "group"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:111
+msgid "Display (random or latest):"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:113
+msgid "random"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:114
+msgid "latest"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:15
+msgid "Display Mailchimp subscription form with Social Networks counter"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:26
+msgid "(Theme) Mailchimp Suscription form"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:78
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:85
+#, php-format
+msgid ""
+"No list found, please go back to <a href=\"%s\">Widgets</a>  choose one for "
+"this widget."
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:87
+msgid ""
+"There was something wrong with subscribe function, please contact an "
+"Administrator "
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:95
+msgid "Please enter your email address."
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:101
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:126
+msgid "Oops! This email address is already subscribed!"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:128
+msgid "Email address does not exist"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:130
+msgid "List does not exist, please choose a valid list."
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:130
+msgid ""
+"There was something wrong on adding your email to our system, please contact "
+"an Administrator"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:132
+msgid "Error: "
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:135
+msgid ""
+"Boom! You have been added to the list, thank you for subscribing! Please "
+"check our email for the confirmation."
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:171
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:176
+msgid "First Name"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:179
+msgid "Last Name"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:184
+msgid "Enter your E-mail..."
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:205
+msgid "Subscribe!"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:224
+msgid "Choose a list:"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:262
+msgid "No list found!"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:270
+#, php-format
+msgid ""
+"Mailchimp API key not found, enter it from <a href=\"%s\">Theme Options</a>-"
+">Subscribe & Connect->API"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:276
+msgid "Description:"
+msgstr ""
+
+#: ../framework/widgets/widget-mailchimp.php:282
+msgid "Show name field"
+msgstr ""
+
+#: ../framework/widgets/widget-smart-tabby-widget.php:14
+msgid "Display widgets inside a tab"
+msgstr ""
+
+#: ../framework/widgets/widget-smart-tabby-widget.php:25
+msgid "(Theme) Smart Tabby widget"
+msgstr ""
+
+#: ../framework/widgets/widget-smart-tabby-widget.php:38
+msgid "Smart widget"
+msgstr ""
+
+#: ../framework/widgets/widget-smart-tabby-widget.php:49
+msgid "Title only show for \"small\" size."
+msgstr ""
+
+#: ../framework/widgets/widget-smart-tabby-widget.php:51
+msgid "Title Size"
+msgstr ""
+
+#: ../framework/widgets/widget-smart-tabby-widget.php:53
+msgid "Small"
+msgstr ""
+
+#: ../framework/widgets/widget-smart-tabby-widget.php:54
+msgid "Big"
+msgstr ""
+
+#: ../framework/widgets/widget-smart-tabby-widget.php:57
+msgid "Size option is for tab only."
+msgstr ""
+
+#: ../framework/widgets/widget-smart-tabby-widget.php:62
+#: ../framework/widgets/yt-smart-widget.class.php:30
+msgid "Drag & Drop Widgets Here"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter-profile.php:15
+msgid "Display your Twitter Profile."
+msgstr ""
+
+#: ../framework/widgets/widget-twitter-profile.php:26
+msgid "(Theme) Twitter Profile"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter-profile.php:54
+#, php-format
+msgid "%s on Twitter"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter-profile.php:56
+msgid "Follow @"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter-profile.php:60
+msgid "Tweets"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter-profile.php:61
+msgid "Following"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter-profile.php:62
+msgid "Followers"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter-profile.php:89
+#: ../framework/widgets/widget-twitter-timelines.php:83
+msgid "Username:"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter-timelines.php:15
+msgid "Display your latest tweets."
+msgstr ""
+
+#: ../framework/widgets/widget-twitter-timelines.php:26
+msgid "(Theme) Twitter Feeds"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter-timelines.php:71
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter-timelines.php:88
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: ../framework/widgets/widget-video.php:16
+msgid "A wiget allowed you to add a fluid video."
+msgstr ""
+
+#: ../framework/widgets/widget-video.php:22
+msgid "(Theme) Fluid Video"
+msgstr ""
+
+#: ../framework/widgets/widget-video.php:60
+#: ../includes/theme-meta-boxes.php:139
+msgid "Video"
+msgstr ""
+
+#: ../framework/widgets/widget-video.php:60
+msgid "Place some short description about the video here."
+msgstr ""
+
+#: ../framework/widgets/widget-video.php:69
+msgid "Embed Code:"
+msgstr ""
+
+#: ../framework/widgets/widget-video.php:71
+msgid ""
+"Paste the embeded code of the video is hosted on such as Youtube, Vimeo, "
+"Blip.tv, Viddler, Kickstarter. the video will be automatically resized to "
+"fit the container!"
+msgstr ""
+
+#: ../framework/widgets/widget-video.php:74
+msgid "Short Description:"
+msgstr ""
+
+#: ../framework/widgets/yt-smart-widget.class.php:101
+msgctxt "widget"
+msgid "Edit"
+msgstr ""
+
+#: ../framework/widgets/yt-smart-widget.class.php:102
+msgctxt "widget"
+msgid "Add"
+msgstr ""
+
+#: ../framework/widgets/yt-smart-widget.class.php:114
+msgid "There are no options for this widget."
+msgstr ""
+
+#: ../framework/widgets/yt-smart-widget.class.php:123
+msgid "Close"
+msgstr ""
+
+#: ../framework/widgets/yt-smart-widget.class.php:126
+msgid "Save"
+msgstr ""
+
+#: ../framework/yt-admin-config.php:35
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../framework/yt-admin-helpers.php:76
+msgid "No icon font found!"
+msgstr ""
+
+#: ../framework/yt-admin-helpers.php:95
+msgid "No icon found!"
+msgstr ""
+
+#: ../framework/yt-admin-helpers.php:99
+msgid "Select icon:"
+msgstr ""
+
+#: ../framework/yt-admin-helpers.php:331
+msgid "right now"
+msgstr ""
+
+#: ../framework/yt-admin-helpers.php:333
+msgid " seconds ago"
+msgstr ""
+
+#: ../framework/yt-admin-helpers.php:335
+msgid "about a minute ago"
+msgstr ""
+
+#: ../framework/yt-admin-helpers.php:337
+msgid " minutes ago"
+msgstr ""
+
+#: ../framework/yt-admin-helpers.php:339
+msgid "about an hour ago"
+msgstr ""
+
+#: ../framework/yt-admin-helpers.php:341
+msgid " hours ago"
+msgstr ""
+
+#: ../framework/yt-admin-helpers.php:343
+msgid "yesterday"
+msgstr ""
+
+#: ../framework/yt-admin-helpers.php:345
+msgid " days ago"
+msgstr ""
+
+#: ../framework/yt-admin-options.php:25
+msgid "Enable Plain Text Logo"
+msgstr ""
+
+#: ../framework/yt-admin-options.php:26
+msgid "Check this to enable a plain text logo rather than an image."
+msgstr ""
+
+#: ../framework/yt-admin-scripts.php:44
+msgid "You forgot to enter your name.<br/>"
+msgstr ""
+
+#: ../framework/yt-admin-scripts.php:45
+msgid "You forgot to enter an email address.<br/>"
+msgstr ""
+
+#: ../framework/yt-admin-scripts.php:46
+msgid "Please, enter a valid email address.<br/>"
+msgstr ""
+
+#: ../framework/yt-admin-scripts.php:47
+msgid "Enter the captcha<br/>"
+msgstr ""
+
+#: ../framework/yt-admin-scripts.php:48
+msgid "You forgot to enter your comment.<br/>"
+msgstr ""
+
+#: ../image.php:27
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../image.php:41
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../image.php:42
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../image.php:71
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:73
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:75
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: ../image.php:77
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../includes/theme-bbpress.php:35
+msgid "Forum Main Sidebar"
+msgstr ""
+
+#: ../includes/theme-bbpress.php:46
+msgid "Forum Sub Sidebar"
+msgstr ""
+
+#: ../includes/theme-bbpress.php:103
+msgid "Sticky"
+msgstr ""
+
+#: ../includes/theme-config.php:108 ../includes/theme-options.php:709
+msgid "Main Menu"
+msgstr ""
+
+#: ../includes/theme-config.php:109
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../includes/theme-config.php:110
+msgid "Top Menu"
+msgstr ""
+
+#: ../includes/theme-config.php:210
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/theme-config.php:223
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../includes/theme-config.php:497
+msgid "Load more..."
+msgstr ""
+
+#: ../includes/theme-config.php:513
+msgid "Previous"
+msgstr ""
+
+#: ../includes/theme-config.php:514
+msgid "Next"
+msgstr ""
+
+#: ../includes/theme-config.php:515
+msgid "Play"
+msgstr ""
+
+#: ../includes/theme-config.php:516
+msgid "Pause"
+msgstr ""
+
+#: ../includes/theme-config.php:559 ../includes/theme-config.php:562
+msgid "Ads Manager"
+msgstr ""
+
+#: ../includes/theme-config.php:570
+msgid "After Header (750x90)"
+msgstr ""
+
+#: ../includes/theme-config.php:571
+msgid ""
+"This ads will be displayed after header (site menu)<br>Add your Ads code or "
+"use the following custom html structure:"
+msgstr ""
+
+#: ../includes/theme-config.php:584
+msgid "Before footer (750x90)"
+msgstr ""
+
+#: ../includes/theme-config.php:585
+msgid "This ads will be displayed before footer widgets section"
+msgstr ""
+
+#: ../includes/theme-config.php:599
+msgid "After single post (750x90)"
+msgstr ""
+
+#: ../includes/theme-config.php:600
+msgid ""
+"This will be displayed right below the single post content.<br>Add your Ads "
+"code or use the following custom html structure:"
+msgstr ""
+
+#: ../includes/theme-config.php:669
+msgid "Sub sidebar"
+msgstr ""
+
+#: ../includes/theme-config.php:716 ../includes/theme-config.php:720
+msgid "Hero Banner"
+msgstr ""
+
+#: ../includes/theme-config.php:721
+msgid ""
+"Toggle the above field on to apply the following configs to this page's Hero"
+msgstr ""
+
+#: ../includes/theme-config.php:732
+msgid "Hero Banner layout"
+msgstr ""
+
+#: ../includes/theme-config.php:733
+msgid "Choose your Hero banner layout you wish to use on this page"
+msgstr ""
+
+#: ../includes/theme-config.php:750
+msgid "Hero Banner style"
+msgstr ""
+
+#: ../includes/theme-config.php:751
+msgid "Choose your Hero banner layout"
+msgstr ""
+
+#: ../includes/theme-config.php:756
+msgid "Default (Dark gradient)"
+msgstr ""
+
+#: ../includes/theme-config.php:757
+msgid "Overlay color by Category"
+msgstr ""
+
+#: ../includes/theme-config.php:758
+msgid "Mixed Gradient (It's nice :) ) "
+msgstr ""
+
+#: ../includes/theme-config.php:765
+msgid "Random color"
+msgstr ""
+
+#: ../includes/theme-config.php:773
+msgid "Check this to use randomized overlay effect"
+msgstr ""
+
+#: ../includes/theme-config.php:777
+msgid "Effect of Appearance"
+msgstr ""
+
+#: ../includes/theme-config.php:778
+msgid "Choose your Hero banner Appearance Effect"
+msgstr ""
+
+#: ../includes/theme-config.php:823
+msgid "Number of posts"
+msgstr ""
+
+#: ../includes/theme-config.php:824
+#, php-format
+msgid "Default: %s. (this option only apply to carousel layout)"
+msgstr ""
+
+#: ../includes/theme-config.php:836
+msgid "Post In"
+msgstr ""
+
+#: ../includes/theme-config.php:837
+msgid ""
+"Specify posts to retrieve. Hold cmd/ctrl + click to select multiple posts"
+msgstr ""
+
+#: ../includes/theme-config.php:865
+msgid "Exclude hero posts"
+msgstr ""
+
+#: ../includes/theme-config.php:871
+msgid "Prevent duplicating posts on main archive posts"
+msgstr ""
+
+#: ../includes/theme-functions.php:39
+msgid "Sub Sidebar"
+msgstr ""
+
+#: ../includes/theme-functions.php:60
+#, php-format
+msgid "Footer Widget %s"
+msgstr ""
+
+#: ../includes/theme-functions.php:87
+msgid "Share this on"
+msgstr ""
+
+#: ../includes/theme-functions.php:96
+msgid "Share this"
+msgstr ""
+
+#: ../includes/theme-functions.php:109
+msgid "More"
+msgstr ""
+
+#: ../includes/theme-functions.php:123
+#: ../includes/theme-template-functions.php:352
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../includes/theme-functions.php:134 ../includes/theme-interface.php:1029
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../includes/theme-functions.php:162
+#, php-format
+msgid "<span class=\"by-author\"><span>by</span> %s</span>"
+msgstr ""
+
+#: ../includes/theme-functions.php:165
+#, php-format
+msgid "&nbsp;<span class=\"in-cat\"><span>in</span> %s</span>"
+msgstr ""
+
+#: ../includes/theme-functions.php:183
+#: ../includes/theme-template-functions.php:363
+msgid "0 Comments"
+msgstr ""
+
+#: ../includes/theme-functions.php:183
+#: ../includes/theme-template-functions.php:363
+msgid "1 Comment"
+msgstr ""
+
+#: ../includes/theme-functions.php:183
+#: ../includes/theme-template-functions.php:363
+msgid "% Comments"
+msgstr ""
+
+#: ../includes/theme-functions.php:192 ../includes/theme-functions.php:1044
+#: ../includes/theme-functions.php:1082
+#: ../includes/widgets/widget-ajax-posts-by-category.php:110
+#: ../includes/widgets/widget-ajax-posts-by-category.php:292
+#, php-format
+msgid "%d Views"
+msgstr ""
+
+#: ../includes/theme-functions.php:756
+msgid "Mega menu"
+msgstr ""
+
+#: ../includes/theme-functions.php:758
+msgid "Enable Mega menu and choose style (Default or News by category)."
+msgstr ""
+
+#: ../includes/theme-functions.php:761
+msgid "Off"
+msgstr ""
+
+#: ../includes/theme-functions.php:762 ../includes/theme-shortcodes.php:157
+#: ../includes/widgets/widget-posts-with-thumnail.php:197
+msgid "Default"
+msgstr ""
+
+#: ../includes/theme-functions.php:763
+msgid "News by category"
+msgstr ""
+
+#: ../includes/theme-functions.php:768
+msgid "Mega menu Columns"
+msgstr ""
+
+#: ../includes/theme-functions.php:770
+msgid "Choose column size (Only apply to Default Mega menu)"
+msgstr ""
+
+#: ../includes/theme-functions.php:786
+msgid "1/2"
+msgstr ""
+
+#: ../includes/theme-functions.php:787
+msgid "1/3"
+msgstr ""
+
+#: ../includes/theme-functions.php:788
+msgid "1/4"
+msgstr ""
+
+#: ../includes/theme-functions.php:789
+msgid "1/5"
+msgstr ""
+
+#: ../includes/theme-functions.php:790
+msgid "1/6"
+msgstr ""
+
+#: ../includes/theme-functions.php:791
+msgid "2/3"
+msgstr ""
+
+#: ../includes/theme-functions.php:792
+msgid "2/5"
+msgstr ""
+
+#: ../includes/theme-functions.php:793
+msgid "3/4"
+msgstr ""
+
+#: ../includes/theme-functions.php:794
+msgid "3/5"
+msgstr ""
+
+#: ../includes/theme-functions.php:795
+msgid "4/5"
+msgstr ""
+
+#: ../includes/theme-functions.php:796
+msgid "5/6"
+msgstr ""
+
+#: ../includes/theme-functions.php:800
+msgid "Display this menu as a sidebar"
+msgstr ""
+
+#: ../includes/theme-functions.php:804
+msgid "Select a sidebar"
+msgstr ""
+
+#: ../includes/theme-functions.php:1037 ../includes/theme-functions.php:1075
+#: ../includes/widgets/widget-ajax-posts-by-category.php:106
+#: ../includes/widgets/widget-ajax-posts-by-category.php:288
+msgid "Reading Now"
+msgstr ""
+
+#: ../includes/theme-functions.php:1049 ../includes/theme-functions.php:1087
+#: ../includes/theme-interface.php:1077
+#: ../includes/widgets/widget-ajax-posts-by-category.php:115
+#: ../includes/widgets/widget-ajax-posts-by-category.php:297
+msgid "0"
+msgstr ""
+
+#: ../includes/theme-functions.php:1049 ../includes/theme-functions.php:1087
+#: ../includes/theme-interface.php:1077
+#: ../includes/widgets/widget-ajax-posts-by-category.php:115
+#: ../includes/widgets/widget-ajax-posts-by-category.php:297
+msgid "1"
+msgstr ""
+
+#: ../includes/theme-functions.php:1049 ../includes/theme-functions.php:1087
+#: ../includes/theme-interface.php:1077
+#: ../includes/widgets/widget-ajax-posts-by-category.php:115
+#: ../includes/widgets/widget-ajax-posts-by-category.php:297
+msgid "%"
+msgstr ""
+
+#: ../includes/theme-general-functions.php:268
+msgid "Site will launch in"
+msgstr ""
+
+#: ../includes/theme-general-functions.php:451
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../includes/theme-general-functions.php:574
+msgid "Uploaded fonts"
+msgstr ""
+
+#: ../includes/theme-general-functions.php:614
+msgid "Google fonts"
+msgstr ""
+
+#: ../includes/theme-interface.php:160
+#, php-format
+msgid ""
+"Create a Menu in <a href=\"%s\">Menus</a> and assign it as Primary Menu in "
+"<a href=\"%s\">Theme Location</a>"
+msgstr ""
+
+#: ../includes/theme-interface.php:164
+msgid "Skip to content"
+msgstr ""
+
+#: ../includes/theme-interface.php:282 ../includes/theme-interface.php:431
+#, php-format
+msgctxt "Sub menu item of Mews Mega menu "
+msgid "All %s"
+msgstr ""
+
+#: ../includes/theme-interface.php:646
+#, php-format
+msgid ""
+"Create a Menu for small screen in <a href=\"%s\">Menus</a> and assign it as "
+"Mobile Menu in <a href=\"%s\">Theme Location</a>"
+msgstr ""
+
+#: ../includes/theme-interface.php:685
+msgid "Google+"
+msgstr ""
+
+#: ../includes/theme-interface.php:687
+msgid "Send an Email"
+msgstr ""
+
+#: ../includes/theme-interface.php:688
+msgid "RSS Feed"
+msgstr ""
+
+#: ../includes/theme-interface.php:751
+msgid "Tag: "
+msgstr ""
+
+#: ../includes/theme-interface.php:759
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../includes/theme-interface.php:767
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../includes/theme-interface.php:770
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../includes/theme-interface.php:773
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../includes/theme-interface.php:776
+msgid "Asides"
+msgstr ""
+
+#: ../includes/theme-interface.php:779
+msgid "Images"
+msgstr ""
+
+#: ../includes/theme-interface.php:782
+msgid "Videos"
+msgstr ""
+
+#: ../includes/theme-interface.php:785
+msgid "Quotes"
+msgstr ""
+
+#: ../includes/theme-interface.php:788
+msgid "Links"
+msgstr ""
+
+#: ../includes/theme-interface.php:791
+msgid "Archives"
+msgstr ""
+
+#: ../includes/theme-interface.php:1110
+msgid ""
+"You need to add more than 5 posts so the hero banner can show blocks properly"
+msgstr ""
+
+#: ../includes/theme-interface.php:1424
+msgid "By"
+msgstr ""
+
+#: ../includes/theme-interface.php:1431
+msgid "View all articles by "
+msgstr ""
+
+#: ../includes/theme-interface.php:1504
+msgid "Related Articles"
+msgstr ""
+
+#: ../includes/theme-interface.php:1596
+msgid "You Might Also Like"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:63
+msgid "Standard"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:71
+msgid ""
+"Standard format allows you to add post thumbnail image, you can set via <a "
+"href=\"#postimagediv\" onClick=\"Yeahthemes.Helper.triggering('#postimagediv "
+"#set-post-thumbnail', 'click')\">Featured image</a>"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:78 ../includes/theme-meta-boxes.php:81
+msgid "Image"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:82
+msgid "Upload an image from media uploader or input external image URL."
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:88 ../includes/theme-shortcodes.php:290
+msgid "Image URL"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:89
+msgid "URL of above image."
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:108
+msgid ""
+"Click \"Add image\", Hold Ctrl/Command + click to select multiple files."
+"<br>To reorder items, drag and drop to reorder."
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:118
+msgid "Audio"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:125
+msgid ""
+"Audio format allows you to add a track cover (for direct URL only), you can "
+"set via <a href=\"#postimagediv\" href=\"#postimagediv\" onClick="
+"\"Yeahthemes.Helper.triggering('#postimagediv #set-post-thumbnail', "
+"'click')\">Featured image</a>"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:128
+msgid "Audio URL (oEmbed)"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:129
+msgid ""
+"Input your internal audio file or paste an external audio file here (Allowed "
+"formats: MP3, WAV, WMA, OGG)"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:143
+msgid "Video URL (oEmbed)"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:144
+msgid ""
+"Input your internal video file or paste an external video file here (Allowed "
+"formats: MP4, WebM).<br>What Sites Can I Embed From? <a href=\"http://codex."
+"wordpress.org/Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\" target="
+"\"_blank\">checkout</a>."
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:154
+msgid "Quote"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:158
+msgid "Source Name"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:159
+msgid "Author of quote"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:165
+msgid "Source URL"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:166
+msgid "URL of Where the quote was taken"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:179
+msgid "Link"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:183
+msgid "Your URL your want to share"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:196
+msgid "Chat"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:213
+msgid "Aside"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:218
+msgid "Use your editor to compose aside post"
+msgstr ""
+
+#: ../includes/theme-meta-boxes.php:227
+msgid "Post Format Settings"
+msgstr ""
+
+#: ../includes/theme-options.php:37
+msgid "Yes"
+msgstr ""
+
+#: ../includes/theme-options.php:37
+msgid "No"
+msgstr ""
+
+#: ../includes/theme-options.php:41
+msgid "Enable"
+msgstr ""
+
+#: ../includes/theme-options.php:42
+msgid "Disable"
+msgstr ""
+
+#: ../includes/theme-options.php:95
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/theme-options.php:96
+msgid "Logo, Email, Copyright ,Contact/Branding informations ..."
+msgstr ""
+
+#: ../includes/theme-options.php:105
+msgid "Plain Text Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:114
+msgid "Toggle this to enable a plain text logo rather than an image."
+msgstr ""
+
+#: ../includes/theme-options.php:118
+msgid "Site Title"
+msgstr ""
+
+#: ../includes/theme-options.php:119
+#, php-format
+msgid ""
+"This will overwrite yout site title in <a href=\"%s\">General Settings</a>"
+msgstr ""
+
+#: ../includes/theme-options.php:131
+msgid "Site Tagline"
+msgstr ""
+
+#: ../includes/theme-options.php:132
+msgid "This will replace your site tagline"
+msgstr ""
+
+#: ../includes/theme-options.php:153
+msgid "Custom Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:154
+msgid ""
+"Upload a logo for your theme, or specify the image address of your online "
+"logo. (http://example.com/logo.png) <br>Dimension: 250px for width and 100px "
+"for height (if you use short banner it will be 80px)."
+msgstr ""
+
+#: ../includes/theme-options.php:187
+msgid "Interface Settings"
+msgstr ""
+
+#: ../includes/theme-options.php:189
+msgid ""
+"Configure appearance of elements on the the site (eg: disable Responsiveness "
+"or change footer layout)"
+msgstr ""
+
+#: ../includes/theme-options.php:203 ../includes/theme-options.php:1033
+msgid "Overall"
+msgstr ""
+
+#: ../includes/theme-options.php:205
+msgid "Interface Settings - Overall"
+msgstr ""
+
+#: ../includes/theme-options.php:208
+msgid "Boxed layout"
+msgstr ""
+
+#: ../includes/theme-options.php:216
+msgid "Toggle this to enable boxed layout (narrow width)."
+msgstr ""
+
+#: ../includes/theme-options.php:220
+msgid "Large display layout"
+msgstr ""
+
+#: ../includes/theme-options.php:221
+msgid "1200px and up"
+msgstr ""
+
+#: ../includes/theme-options.php:228
+msgid "Toggle this to enable wide layout for large display."
+msgstr ""
+
+#: ../includes/theme-options.php:232
+msgid "Main Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:233
+msgid "Select main content and sidebar alignment."
+msgstr ""
+
+#: ../includes/theme-options.php:251
+msgid "Page comment box"
+msgstr ""
+
+#: ../includes/theme-options.php:259
+msgid "Toggle this to enable Page comment box."
+msgstr ""
+
+#: ../includes/theme-options.php:269 ../includes/theme-options.php:706
+#: ../includes/theme-options.php:1139
+msgid "Header"
+msgstr ""
+
+#: ../includes/theme-options.php:272
+msgid "Interface Settings - Header"
+msgstr ""
+
+#: ../includes/theme-options.php:274
+msgid "Top bar menu"
+msgstr ""
+
+#: ../includes/theme-options.php:281
+msgid "Scrollfix Main menu"
+msgstr ""
+
+#: ../includes/theme-options.php:289
+msgid "Toggle this to enable Scrollfix Main menu style."
+msgstr ""
+
+#: ../includes/theme-options.php:292
+msgid "News Mega Request type"
+msgstr ""
+
+#: ../includes/theme-options.php:293
+msgid ""
+"Choose the method of retrieving posts when hover to News mega menu<br>-Ajax "
+"request: Used Ajax technique to load posts when hover<br>-Regular request: "
+"loads posts instantly when hover. (this might affect to loading speed if you "
+"have many loop on a page, we recommend you to use cache plugin to reduce "
+"server response time)"
+msgstr ""
+
+#: ../includes/theme-options.php:299
+msgid "Ajax request"
+msgstr ""
+
+#: ../includes/theme-options.php:300
+msgid "Regular request"
+msgstr ""
+
+#: ../includes/theme-options.php:303
+msgid "Social links Position"
+msgstr ""
+
+#: ../includes/theme-options.php:311
+msgid "Top Menu bar"
+msgstr ""
+
+#: ../includes/theme-options.php:312
+msgid "Main Menu bar"
+msgstr ""
+
+#: ../includes/theme-options.php:326
+msgid "Interface Settings - Footer"
+msgstr ""
+
+#: ../includes/theme-options.php:329
+msgid "Footer Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:330
+msgid "Select a footer layout style. (full, half, small)"
+msgstr ""
+
+#: ../includes/theme-options.php:347
+msgid "Footer Columns"
+msgstr ""
+
+#: ../includes/theme-options.php:348
+msgid "Select the number of columns you would like to display in the footer."
+msgstr ""
+
+#: ../includes/theme-options.php:360
+msgid "Left Footer credit"
+msgstr ""
+
+#: ../includes/theme-options.php:367
+msgid "Right Footer credit"
+msgstr ""
+
+#: ../includes/theme-options.php:380
+msgid "Blog Settings"
+msgstr ""
+
+#: ../includes/theme-options.php:382
+msgid "Configure parameters for default blog page"
+msgstr ""
+
+#: ../includes/theme-options.php:392
+msgid "General"
+msgstr ""
+
+#: ../includes/theme-options.php:394
+msgid "Blog Settings - General"
+msgstr ""
+
+#: ../includes/theme-options.php:397
+msgid "Exclude Categories from Default Blog page (Page for posts)"
+msgstr ""
+
+#: ../includes/theme-options.php:398
+msgid ""
+"Check the categories that you don't want to display in main blog page (page "
+"for posts)"
+msgstr ""
+
+#: ../includes/theme-options.php:405
+msgid "Excerpt output"
+msgstr ""
+
+#: ../includes/theme-options.php:406
+msgid ""
+"Handle output of excerpt content:<br>-Manual: Use <--more--> tag to split a "
+"first part of post content and use it as summary on main archive page.<br>-"
+"Automatic: Split your content automatically."
+msgstr ""
+
+#: ../includes/theme-options.php:411
+msgid "Manual"
+msgstr ""
+
+#: ../includes/theme-options.php:412
+msgid "Automatic"
+msgstr ""
+
+#: ../includes/theme-options.php:416
+msgid "Excerpt length"
+msgstr ""
+
+#: ../includes/theme-options.php:417
+msgid ""
+"Change excerpt length to display in blog page. (default is 55 words), only "
+"apply when you handle excerpt manually."
+msgstr ""
+
+#: ../includes/theme-options.php:429
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/theme-options.php:430
+msgid "Select the Pagination type for blog archive page"
+msgstr ""
+
+#: ../includes/theme-options.php:436
+msgid "Numeric Pagination"
+msgstr ""
+
+#: ../includes/theme-options.php:437
+msgid "Next/Prev links"
+msgstr ""
+
+#: ../includes/theme-options.php:442
+msgid "Read more button"
+msgstr ""
+
+#: ../includes/theme-options.php:443
+msgid "Toggle to show/hide readmore button in blog page "
+msgstr ""
+
+#: ../includes/theme-options.php:452
+msgid "Post format icon"
+msgstr ""
+
+#: ../includes/theme-options.php:453
+msgid "The icon before Post meta info"
+msgstr ""
+
+#: ../includes/theme-options.php:464
+msgid "Hide Post meta info"
+msgstr ""
+
+#: ../includes/theme-options.php:465
+msgid "Uncheck to hide the meta info in blog page"
+msgstr ""
+
+#: ../includes/theme-options.php:479
+msgid "Author of the Post"
+msgstr ""
+
+#: ../includes/theme-options.php:480
+msgid "Post Category"
+msgstr ""
+
+#: ../includes/theme-options.php:481
+msgid "Sharing buttons"
+msgstr ""
+
+#: ../includes/theme-options.php:482
+msgid "Date of Post "
+msgstr ""
+
+#: ../includes/theme-options.php:483
+msgid "Comments"
+msgstr ""
+
+#: ../includes/theme-options.php:484
+msgid "Likes"
+msgstr ""
+
+#: ../includes/theme-options.php:485 ../includes/theme-shortcodes.php:60
+#: ../includes/widgets/widget-ajax-posts-by-category.php:434
+#: ../includes/widgets/widget-posts-with-thumnail.php:190
+msgid "Post views"
+msgstr ""
+
+#: ../includes/theme-options.php:486
+msgid "Font sizer"
+msgstr ""
+
+#: ../includes/theme-options.php:500
+msgid "Single post"
+msgstr ""
+
+#: ../includes/theme-options.php:502
+msgid "Blog Settings - Single post"
+msgstr ""
+
+#: ../includes/theme-options.php:505
+msgid "Author info."
+msgstr ""
+
+#: ../includes/theme-options.php:514
+msgid "Comment box"
+msgstr ""
+
+#: ../includes/theme-options.php:523
+msgid "Related articles"
+msgstr ""
+
+#: ../includes/theme-options.php:531
+msgid "You might also like section"
+msgstr ""
+
+#: ../includes/theme-options.php:547
+msgid "Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:561
+msgid "Elements"
+msgstr ""
+
+#: ../includes/theme-options.php:563
+msgid "Configure font parameters for element"
+msgstr ""
+
+#: ../includes/theme-options.php:571
+msgid "H1 Headings"
+msgstr ""
+
+#: ../includes/theme-options.php:572
+msgid "default : Helvetica 30px normal normal 1.35 0px none 35px"
+msgstr ""
+
+#: ../includes/theme-options.php:588
+msgid "H2 Headings"
+msgstr ""
+
+#: ../includes/theme-options.php:589
+msgid "default : 26px normal normal 1.35 0px none 30px"
+msgstr ""
+
+#: ../includes/theme-options.php:605
+msgid "H3 Headings"
+msgstr ""
+
+#: ../includes/theme-options.php:606
+msgid "default : 22px normal normal 1.75 0px none 20px"
+msgstr ""
+
+#: ../includes/theme-options.php:622
+msgid "H4 Headings"
+msgstr ""
+
+#: ../includes/theme-options.php:623
+msgid "default : 20px normal normal 1.75 0px none 20px"
+msgstr ""
+
+#: ../includes/theme-options.php:639
+msgid "H5 Headings"
+msgstr ""
+
+#: ../includes/theme-options.php:640
+msgid "default : 16px normal normal 1.75 0px none 15px"
+msgstr ""
+
+#: ../includes/theme-options.php:656
+msgid "H6 Headings"
+msgstr ""
+
+#: ../includes/theme-options.php:657
+msgid "default : 13px normal normal 1.75 0px none 10px"
+msgstr ""
+
+#: ../includes/theme-options.php:673
+msgid "Bold tag inside Headings"
+msgstr ""
+
+#: ../includes/theme-options.php:674
+msgid ""
+"The <strong>strong</strong> and <strong>b</strong> tag inside of Heading tags"
+msgstr ""
+
+#: ../includes/theme-options.php:684
+msgid "Body Font"
+msgstr ""
+
+#: ../includes/theme-options.php:685
+msgid ""
+"Specify the body font properties Default: 13px normal normal 1.75 0px none"
+msgstr ""
+
+#: ../includes/theme-options.php:710
+msgid "default : 14px normal normal"
+msgstr ""
+
+#: ../includes/theme-options.php:723
+msgid "Main Menu Child Level"
+msgstr ""
+
+#: ../includes/theme-options.php:724
+msgid "default : 12px normal normal"
+msgstr ""
+
+#: ../includes/theme-options.php:744 ../includes/theme-options.php:1201
+msgid "Content"
+msgstr ""
+
+#: ../includes/theme-options.php:747
+msgid "Home Brick Entry title"
+msgstr ""
+
+#: ../includes/theme-options.php:748
+msgid "default : 40px normal normal 50px 0px none 0px"
+msgstr ""
+
+#: ../includes/theme-options.php:762
+msgid "Entry title"
+msgstr ""
+
+#: ../includes/theme-options.php:763
+msgid "default : 36px normal normal 1.35 0px none"
+msgstr ""
+
+#: ../includes/theme-options.php:779
+msgid "Single Page/Post title"
+msgstr ""
+
+#: ../includes/theme-options.php:780
+msgid "default : 40px normal normal 1.35 0px none"
+msgstr ""
+
+#: ../includes/theme-options.php:796
+msgid "Sidebar widget's Headings"
+msgstr ""
+
+#: ../includes/theme-options.php:797 ../includes/theme-options.php:823
+msgid "default : 18px normal normal 1.75 0px none"
+msgstr ""
+
+#: ../includes/theme-options.php:822
+msgid "Footer Headings"
+msgstr ""
+
+#: ../includes/theme-options.php:839
+msgid "Footer Elements"
+msgstr ""
+
+#: ../includes/theme-options.php:840
+msgid ""
+"Specify the footer element font properties Default: 13px normal normal 1.75 "
+"0px none"
+msgstr ""
+
+#: ../includes/theme-options.php:861
+msgid "Google Font"
+msgstr ""
+
+#: ../includes/theme-options.php:863
+msgid ""
+"Add, Remove font from <a href=\"http://www.google.com/webfonts/\" target="
+"\"_blank\">Google Web Fonts</a> Library"
+msgstr ""
+
+#: ../includes/theme-options.php:868
+msgid ""
+"<p>Checkout <a href=\"http://www.google.com/webfonts/\" target=\"_blank"
+"\">Google Web Fonts</a> Library. for a complete list of available font.</p>"
+msgstr ""
+
+#: ../includes/theme-options.php:872
+msgid "Enable Google font"
+msgstr ""
+
+#: ../includes/theme-options.php:873 ../includes/theme-options.php:916
+msgid ""
+"Click <strong>Enable</strong> to use Google webfont from <strong>Font "
+"Family</strong> select box"
+msgstr ""
+
+#: ../includes/theme-options.php:880
+msgid "Character sets"
+msgstr ""
+
+#: ../includes/theme-options.php:881
+msgid ""
+"If you choose only the languages that you need, you'll help prevent slowness "
+"on your webpage.<br><br>Notice: The theme will load font subsets if "
+"available!"
+msgstr ""
+
+#: ../includes/theme-options.php:886
+msgid "Latin"
+msgstr ""
+
+#: ../includes/theme-options.php:887
+msgid "Latin Extended"
+msgstr ""
+
+#: ../includes/theme-options.php:888
+msgid "Cyrillic"
+msgstr ""
+
+#: ../includes/theme-options.php:889
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../includes/theme-options.php:890
+msgid "Greek"
+msgstr ""
+
+#: ../includes/theme-options.php:891
+msgid "Greek Extended"
+msgstr ""
+
+#: ../includes/theme-options.php:892
+msgid "Khmer"
+msgstr ""
+
+#: ../includes/theme-options.php:893
+msgid "Vietnamese"
+msgstr ""
+
+#: ../includes/theme-options.php:904
+msgid "Custom Font"
+msgstr ""
+
+#: ../includes/theme-options.php:906
+msgid "Upload Custom font from your Computer"
+msgstr ""
+
+#: ../includes/theme-options.php:915
+msgid "Enable Custom font"
+msgstr ""
+
+#: ../includes/theme-options.php:923
+msgid "Upload Custom Fonts."
+msgstr ""
+
+#: ../includes/theme-options.php:924
+msgid ""
+"Add your custom font for your site.<br>If you don't know how to create a "
+"fontface for web, you can generate at: <a href=\"http://www.fontsquirrel.com/"
+"fontface/generator\">here</a><br><br>Font You have added:<br>"
+msgstr ""
+
+#: ../includes/theme-options.php:930
+msgid "Font name"
+msgstr ""
+
+#: ../includes/theme-options.php:937
+msgid "Font weight"
+msgstr ""
+
+#: ../includes/theme-options.php:946
+msgid "400 (Normal)"
+msgstr ""
+
+#: ../includes/theme-options.php:966
+msgid "<b>.EOT</b> file"
+msgstr ""
+
+#: ../includes/theme-options.php:977
+msgid "<b>.WOFF</b> file"
+msgstr ""
+
+#: ../includes/theme-options.php:988
+msgid "<b>.TTF</b> file"
+msgstr ""
+
+#: ../includes/theme-options.php:999
+msgid "<b>.SVG</b> file"
+msgstr ""
+
+#: ../includes/theme-options.php:1020
+msgid "Styling Options"
+msgstr ""
+
+#: ../includes/theme-options.php:1035
+msgid "Configure Styling rule for overall elements"
+msgstr ""
+
+#: ../includes/theme-options.php:1040
+msgid ""
+"<h3>Choose the built-in skins!, if you dont like them, you can customize by "
+"colorpicking your favorite color schemes :)</h3>"
+msgstr ""
+
+#: ../includes/theme-options.php:1043
+msgid "Built-in Skins"
+msgstr ""
+
+#: ../includes/theme-options.php:1044
+msgid "Select your themes alternative color scheme"
+msgstr ""
+
+#: ../includes/theme-options.php:1057
+msgid "Enable Body background pattern"
+msgstr ""
+
+#: ../includes/theme-options.php:1058 ../includes/theme-options.php:1158
+#: ../includes/theme-options.php:1211 ../includes/theme-options.php:1275
+msgid ""
+"if you are using  child theme, you can also add more background pattern by "
+"copying image to theme folderchild-theme-directory/images/bg/"
+msgstr ""
+
+#: ../includes/theme-options.php:1065 ../includes/theme-options.php:1165
+#: ../includes/theme-options.php:1218 ../includes/theme-options.php:1282
+msgid "Toggle this to enable background pattern"
+msgstr ""
+
+#: ../includes/theme-options.php:1069
+msgid "Body Background Pattern"
+msgstr ""
+
+#: ../includes/theme-options.php:1070 ../includes/theme-options.php:1184
+#: ../includes/theme-options.php:1238 ../includes/theme-options.php:1287
+msgid ""
+"Select a background pattern. (The above uploaded image will be overwritten "
+"by this pattern)"
+msgstr ""
+
+#: ../includes/theme-options.php:1095
+msgid "Element colors"
+msgstr ""
+
+#: ../includes/theme-options.php:1098 ../includes/theme-options.php:1152
+msgid "Primary color"
+msgstr ""
+
+#: ../includes/theme-options.php:1099
+msgid ""
+"Pick a Primary color for your site.(this will overwrite built-in skins "
+"option)"
+msgstr ""
+
+#: ../includes/theme-options.php:1106
+msgid "Secondary color"
+msgstr ""
+
+#: ../includes/theme-options.php:1107
+msgid "Pick a Secondary color for your site"
+msgstr ""
+
+#: ../includes/theme-options.php:1114
+msgid "Text color"
+msgstr ""
+
+#: ../includes/theme-options.php:1115
+msgid "Pick a Text color for your site"
+msgstr ""
+
+#: ../includes/theme-options.php:1122
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/theme-options.php:1123
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../includes/theme-options.php:1141
+msgid "Configure Styling rule for elements in site Header"
+msgstr ""
+
+#: ../includes/theme-options.php:1144
+msgid "Header color style"
+msgstr ""
+
+#: ../includes/theme-options.php:1150
+msgid "Dark (default)"
+msgstr ""
+
+#: ../includes/theme-options.php:1151
+msgid "Light"
+msgstr ""
+
+#: ../includes/theme-options.php:1157 ../includes/theme-options.php:1210
+msgid "Background pattern"
+msgstr ""
+
+#: ../includes/theme-options.php:1169
+msgid "Background image options"
+msgstr ""
+
+#: ../includes/theme-options.php:1183 ../includes/theme-options.php:1237
+#: ../includes/theme-options.php:1274 ../includes/theme-options.php:1286
+msgid "Background Pattern"
+msgstr ""
+
+#: ../includes/theme-options.php:1203
+msgid "Configure Styling rule for elements in site Content"
+msgstr ""
+
+#: ../includes/theme-options.php:1207
+msgid "Content Background Options"
+msgstr ""
+
+#: ../includes/theme-options.php:1222
+msgid "Background Options"
+msgstr ""
+
+#: ../includes/theme-options.php:1256
+msgid "Configure Styling rule for elements in site Footer"
+msgstr ""
+
+#: ../includes/theme-options.php:1259
+msgid "Footer Widgets Background Options"
+msgstr ""
+
+#: ../includes/theme-options.php:1297
+msgid "Footer Copyright info. Background Color"
+msgstr ""
+
+#: ../includes/theme-options.php:1298
+msgid "Pick a background color for the footer copyright area ."
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:68
+msgid "Post List"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:86
+#: ../includes/widgets/widget-posts-with-thumnail.php:160
+msgid "Default (Small)"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:87
+#: ../includes/widgets/widget-posts-with-thumnail.php:161
+msgid "Large"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:88
+#: ../includes/widgets/widget-posts-with-thumnail.php:162
+msgid "First Large"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:89
+#: ../includes/widgets/widget-posts-with-thumnail.php:163
+msgid "Number (no thumb)"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:90
+#: ../includes/widgets/widget-posts-with-thumnail.php:164
+msgid "Title Only"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:91
+#: ../includes/widgets/widget-posts-with-thumnail.php:165
+msgid "First item have thumbnail"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:93
+#: ../includes/widgets/widget-posts-with-thumnail.php:158
+msgid "Thumbnail style:"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:102
+msgid ""
+"Specify categories to retrieve posts from. Hold cmd/ctrl + click to select/"
+"deselect multiple tagsb<br>If no category was selected, retrieve all"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:111
+msgid "Tagged in (optional):"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:131
+msgid "Number of Post"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:158
+#: ../includes/widgets/widget-posts-with-thumnail.php:198
+msgid "This week"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:159
+#: ../includes/widgets/widget-posts-with-thumnail.php:199
+msgid "Last week"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:160
+#: ../includes/widgets/widget-posts-with-thumnail.php:200
+msgid "This Month"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:161
+#: ../includes/widgets/widget-posts-with-thumnail.php:201
+msgid "Last Month"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:162
+#: ../includes/widgets/widget-posts-with-thumnail.php:202
+msgid "Last 30 days"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:164
+#: ../includes/widgets/widget-posts-with-thumnail.php:195
+msgid "Time period:"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:172
+#: ../includes/widgets/widget-posts-with-thumnail.php:205
+msgid "Show views/comment counter"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:180
+msgid " Show category tag"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:188
+#: ../includes/widgets/widget-posts-with-thumnail.php:209
+msgid "Show post date"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:201
+msgid "Slider"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:214
+msgid "Direction Nav"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:222
+msgid "Control Nav"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:230
+msgid "Pause/Play"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:238
+msgid "Fade"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:239
+msgid "Slide"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:241
+msgid "Effect"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:249
+msgid "Autoplay"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:256
+msgid "Slideshow Speed"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:263
+msgid "Animation Speed"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:268
+msgid "Add list items"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:269
+msgid "if only content is entered, simple style will be used"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:276
+msgid "slide"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:284
+msgid "Caption (optional)"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:291
+msgid "Upload image"
+msgstr ""
+
+#: ../includes/theme-styling.php:38
+msgid ""
+"To use dynamically custom css from external file, make sure you have created "
+"\"css\" directory inside your child theme. "
+msgstr ""
+
+#: ../includes/theme-template-functions.php:98
+#: ../includes/theme-template-functions.php:134
+msgid "Post navigation"
+msgstr ""
+
+#: ../includes/theme-template-functions.php:108
+msgid "Older Entries"
+msgstr ""
+
+#: ../includes/theme-template-functions.php:112
+msgid "Newer Entries"
+msgstr ""
+
+#: ../includes/theme-template-functions.php:146
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../includes/theme-template-functions.php:147
+msgid "&larr; Prev"
+msgstr ""
+
+#: ../includes/theme-template-functions.php:158
+#, php-format
+msgid "Page %d of %d"
+msgstr ""
+
+#: ../includes/theme-template-functions.php:189
+msgid "Pingback:"
+msgstr ""
+
+#: ../includes/theme-template-functions.php:189
+#: ../includes/theme-template-functions.php:231
+msgid "Edit"
+msgstr ""
+
+#: ../includes/theme-template-functions.php:201
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/theme-template-functions.php:207
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/theme-template-functions.php:214
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/theme-template-functions.php:229
+msgid "Reply"
+msgstr ""
+
+#: ../includes/theme-template-functions.php:343
+#, php-format
+msgid ""
+"<span class=\"posted-on\">%1$s</span><span class=\"by-author\"> by %2$s</"
+"span><span class=\"in-cat\"> in %3$s</span>"
+msgstr ""
+
+#: ../includes/theme-template-functions.php:358
+msgid ", "
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:33
+msgid "Woocommerce"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:43
+msgid "Product per page ( Main shop page )"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:51
+msgid "Mini cart (on Main Menu)"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:60
+msgid "Single product tabs"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:69
+msgid "Related product ( Single product )"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:78
+msgid "Add to cart button ( Product archives )"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:87
+msgid "Sale badge (Product archives)"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:191
+msgid "Your Rating"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:192
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:193
+msgid "Perfect"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:194
+msgid "Good"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:195
+msgid "Average"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:196
+msgid "Not that bad"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:197
+msgid "Very Poor"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:200
+msgid "Your Review"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:219
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:238 ../includes/theme-woocommerce.php:266
+msgid "View your cart"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:287
+msgid "Remove this item"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:309 ../includes/theme-woocommerce.php:329
+msgid "Out of Stock"
+msgstr ""
+
+#: ../includes/theme-woocommerce.php:313
+msgid "Sale!"
+msgstr ""
+
+#: ../includes/theme-wpml.php:25
+msgid "WPML language switcher"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:17
+#: ../includes/widgets/widget-social-media.php:17
+msgid "Display Posts by category using Ajax"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:28
+msgid "(Theme) Ajax Posts by Category"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:136
+msgid "No Posts found"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:219
+#, php-format
+msgid "View posts in %s"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:350
+msgid "Trending Now"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:368
+msgid "Show Header (Category menu)"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:369
+#: ../includes/widgets/widget-posts-with-thumnail.php:109
+msgid "Category:"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:401
+#: ../includes/widgets/widget-posts-with-thumnail.php:141
+msgid ""
+"Select categories you wish to show, if no categories selected, show all!"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:402
+msgid ""
+"Retrieve posts from sibling categories on single post and category page "
+"automatically"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:404
+msgid "Init Style:"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:406
+msgid "Horizontal"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:407
+msgid "Vertical"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:410
+msgid "Show widget title on header menu"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:412
+msgid "Disable Ajax"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:415
+#: ../includes/widgets/widget-posts-with-thumnail.php:170
+msgid "Order:"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:423
+#: ../includes/widgets/widget-posts-with-thumnail.php:178
+msgid "Order by:"
+msgstr ""
+
+#: ../includes/widgets/widget-ajax-posts-by-category.php:438
+#: ../includes/widgets/widget-posts-with-thumnail.php:211
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../includes/widgets/widget-posts-with-thumnail.php:18
+msgid "Display Posts with thumbnail"
+msgstr ""
+
+#: ../includes/widgets/widget-posts-with-thumnail.php:29
+msgid "(Theme) Posts with thumnail"
+msgstr ""
+
+#: ../includes/widgets/widget-posts-with-thumnail.php:89
+msgid "Popular Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-posts-with-thumnail.php:143
+msgid "Tagged In (optional):"
+msgstr ""
+
+#: ../includes/widgets/widget-posts-with-thumnail.php:156
+msgid "Specify tags to retrieve posts from."
+msgstr ""
+
+#: ../includes/widgets/widget-posts-with-thumnail.php:207
+msgid "Show category tag"
+msgstr ""
+
+#: ../includes/widgets/widget-social-media.php:28
+msgid "(Theme) Social Media"
+msgstr ""
+
+#: ../no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:15 ../searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:16
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
