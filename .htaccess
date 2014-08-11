@@ -127,3 +127,18 @@ ExpiresByType text/css "access 1 month"
 ExpiresByType application/javascript "access plus 1 year" 
 </IfModule> 
 # Leverage Browser Caching Ninja -- Ends here
+# Leverage Browser Caching Ninja -- Starts here
+# Do not write anything between "Leverage Browser Caching Ninja -- Starts" and "Leverage Browser Caching Ninja -- Ends"
+# It will be deleted while uninstalling Leverage Browser Caching Ninja plugin
+<IfModule mod_expires.c>
+ExpiresActive On 
+ExpiresDefault "access plus 1 month" 
+ExpiresByType image/x-icon "access plus 1 year" 
+ExpiresByType image/gif "access plus 1 month" 
+ExpiresByType image/png "access plus 1 month" 
+ExpiresByType image/jpg "access plus 1 month" 
+ExpiresByType image/jpeg "access plus 1 month" 
+ExpiresByType text/css "access 1 month" 
+ExpiresByType application/javascript "access plus 1 year" 
+</IfModule> 
+# Leverage Browser Caching Ninja -- Ends here
