@@ -6,6 +6,8 @@ RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]
+RewriteCond %{HTTP_USER_AGENT} libwww-perl.* 
+RewriteRule .* – [F,L]
 </IfModule>
 
 # ENreheaders
@@ -140,5 +142,5 @@ ExpiresByType image/jpg "access plus 1 month"
 ExpiresByType image/jpeg "access plus 1 month" 
 ExpiresByType text/css "access 1 month" 
 ExpiresByType application/javascript "access plus 1 year" 
-</IfModule> 
+</Ifmodule>
 # Leverage Browser Caching Ninja -- Ends here

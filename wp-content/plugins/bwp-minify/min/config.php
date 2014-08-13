@@ -7,10 +7,10 @@ $min_cachePath = dirname(dirname(__FILE__)) . '/cache';
 $min_documentRoot = '';
 $min_cacheFileLocking = true;
 $min_serveOptions['bubbleCssImports'] = false;
-$min_serveOptions['maxAge'] = 86400;
+$min_serveOptions['maxAge'] = 172800;
 $min_serveOptions['minApp']['groupsOnly'] = false;
 $min_symlinks = array();
 $min_uploaderHoursBehind = 0;
 $min_libPath = dirname(__FILE__) . '/lib';
 ini_set('zlib.output_compression', '0');
-// auto-generated on 2014-08-12 21:53:29
+// auto-generated on 2014-08-13 06:31:59
