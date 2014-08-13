@@ -18,7 +18,7 @@ return array(
 	),
 	'notes.minify_error' => false,
 	'minify.error.last' => '',
-	'minify.error.notification' => '',
+	'minify.error.notification' => 'admin',
 	'minify.error.notification.last' => 0,
 	'minify.error.file' => '',
 	'track.maxcdn_signup' => 0,
