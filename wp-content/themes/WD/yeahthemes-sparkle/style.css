@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
 /*!
 Theme Name: Sparkle
 Theme URI: http://Yeahthemes.com/themes/sparkle
@@ -899,7 +900,10 @@ body,
 }
 p {
   margin: 0 0 15px;
-  font-size: 15px;
+  font-size: 16px;
+  color: #525252;
+  font-weight: 400;
+  font-family: 'Lato', sans-serif;
 }
 pre {
   -webkit-border-radius: 0.08;
@@ -1651,6 +1655,7 @@ img.avatar {
   word-wrap: break-word;
   font-size: 30px;
   font-weight: bold;
+  font-family: 'Lato', sans-serif;
 }
 .entry-format-media img {
   max-width: 100%;
@@ -1820,8 +1825,8 @@ html .boundary-column:before {
 .site-content[role="main"] > article.post {
   border-style: double;
   border-width: 4px 0 0;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .site-content[role="main"] > article.post:first-child {
   padding-top: 0;
@@ -1847,6 +1852,7 @@ html .boundary-column:before {
 .entry-header .entry-meta .author a {
   font-weight: bold;
   text-transform: uppercase;
+  font-size: 10px;
 }
 .entry-header .entry-meta .post-meta-info {
   text-transform: uppercase;

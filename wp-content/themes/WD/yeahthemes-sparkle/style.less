@@ -33,7 +33,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 @import "framework/css/mixins.less";  
 @import "css/theme-mixins.less"; 
 @import "css/theme-vars.less";   
- 
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
 @import "css/base.less";
 
 //Fix Disappear issue of admin menu from using css transform
@@ -58,7 +58,10 @@ html, body, #page, .inner-wrapper{
 }
 p {
 	margin: 0 0 15px;
-	font-size: 15px;
+	font-size: 16px;
+	color: #525252;
+	font-weight: 400;
+	font-family: 'Lato', sans-serif;
 }
 pre{
 	.border-radius(@borderOpacity);
@@ -872,6 +875,7 @@ img.avatar{
 	word-wrap: break-word; 
 	font-size: 30px;
 	font-weight: bold;
+	font-family: 'Lato', sans-serif;
 }
 .entry-format-media{
 	img{
@@ -1082,8 +1086,8 @@ html .boundary-column{
 	&.post{
 		border-style: double;
 		border-width: 4px 0 0;
-		padding-top:50px;
-		padding-bottom:50px;
+		padding-top:20px;
+		padding-bottom:20px;
 		&:first-child{
 			padding-top:0;
 			margin-top:0;
@@ -1112,6 +1116,7 @@ html .boundary-column{
 			a{
 				font-weight:bold;
 				text-transform:uppercase;
+				font-size: 10px;
 			}
 		}
 		.post-meta-info{
